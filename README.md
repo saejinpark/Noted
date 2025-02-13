@@ -1,1 +1,3 @@
 # Noted
+| React | vite | Firebase
+
